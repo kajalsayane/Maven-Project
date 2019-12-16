@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="83" started-at="2019-12-14T16:20:41Z" finished-at="2019-12-14T16:20:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="83" started-at="2019-12-14T16:20:41Z" finished-at="2019-12-14T16:20:41Z">
+      <class name="dummypractice.SeleniumTest">
+        <test-method status="PASS" signature="sele1()[pri:0, instance:dummypractice.SeleniumTest@525f1e4e]" name="sele1" duration-ms="2" started-at="2019-12-14T21:50:41Z" finished-at="2019-12-14T21:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sele1 -->
+        <test-method status="PASS" signature="sele2()[pri:0, instance:dummypractice.SeleniumTest@525f1e4e]" name="sele2" duration-ms="3" started-at="2019-12-14T21:50:41Z" finished-at="2019-12-14T21:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sele2 -->
+      </class> <!-- dummypractice.SeleniumTest -->
+      <class name="dummypractice.SoapTest">
+        <test-method status="PASS" signature="Soap1()[pri:0, instance:dummypractice.SoapTest@2357d90a]" name="Soap1" duration-ms="26" started-at="2019-12-14T21:50:41Z" finished-at="2019-12-14T21:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Soap1 -->
+        <test-method status="PASS" signature="Soap2()[pri:0, instance:dummypractice.SoapTest@2357d90a]" name="Soap2" duration-ms="1" started-at="2019-12-14T21:50:41Z" finished-at="2019-12-14T21:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Soap2 -->
+      </class> <!-- dummypractice.SoapTest -->
+      <class name="dummypractice.CuCuTest">
+        <test-method status="PASS" signature="CuCu1()[pri:0, instance:dummypractice.CuCuTest@75f9eccc]" name="CuCu1" duration-ms="2" started-at="2019-12-14T21:50:41Z" finished-at="2019-12-14T21:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CuCu1 -->
+        <test-method status="PASS" signature="CuCu2()[pri:0, instance:dummypractice.CuCuTest@75f9eccc]" name="CuCu2" duration-ms="2" started-at="2019-12-14T21:50:41Z" finished-at="2019-12-14T21:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CuCu2 -->
+      </class> <!-- dummypractice.CuCuTest -->
+      <class name="dummypractice.JenkTest">
+        <test-method status="PASS" signature="Jenk1()[pri:0, instance:dummypractice.JenkTest@4de5031f]" name="Jenk1" duration-ms="1" started-at="2019-12-14T21:50:41Z" finished-at="2019-12-14T21:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Jenk1 -->
+        <test-method status="PASS" signature="Jenk2()[pri:0, instance:dummypractice.JenkTest@4de5031f]" name="Jenk2" duration-ms="1" started-at="2019-12-14T21:50:41Z" finished-at="2019-12-14T21:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Jenk2 -->
+      </class> <!-- dummypractice.JenkTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
