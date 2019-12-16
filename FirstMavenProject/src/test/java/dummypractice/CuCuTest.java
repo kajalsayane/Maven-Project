@@ -10,5 +10,7 @@ public class CuCuTest {
   @Test
   public void CuCu2() {
 	  System.out.println("CuCu2");
+	  System.out.println("CuCu3");
+	  System.out.println("CuCu4");
   }
 }
